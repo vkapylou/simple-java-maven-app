@@ -10,7 +10,7 @@
   <distributionManagement>
     <snapshotRepository>
       <id>nexus</id>
-      <url>http://nexus/#browse/browse:jenkins-snapshots/</url>
+      <url>http://127.0.0.1:8081/repository/jenkins-snapshots/</url>
     </snapshotRepository>
   </distributionManagement>
   <dependencies>
