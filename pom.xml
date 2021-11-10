@@ -11,11 +11,6 @@
     <snapshotRepository>
       <id>nexus</id>
       <url>http://192.168.100.11:8081/repository/jenkins-snapshots/</url>
-    </snapshotRepository>
-  </distributionManagement>
-  <distributionManagement>
-    <snapshotRepository>
-      <id>nexus</id>
       <url>http://192.168.100.11:8081/repository/jenkins/</url>
     </snapshotRepository>
   </distributionManagement>
